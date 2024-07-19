@@ -1,0 +1,8 @@
+{
+  "postgres": {
+    "uri": "mongodb+srv://zarinatoleukhanova:I2K5gYQ9YIV2wRzA@cluster0.mongodb.net/go-notification?retryWrites=true&w=majority",
+    "database": "go-notification",
+    "collection": "events"
+  }
+}
+
